@@ -1,3 +1,4 @@
+```
 USE [abexauser]
 GO
 /****** Object:  Table [dbo].[UserItems]    Script Date: 8/10/2021 16:44:39 ******/
@@ -31,3 +32,4 @@ INSERT INTO UserItems (NombreUsu, CorreoUsu, PerfilUsu, EmpresaUsu, EstadoUsu)
 VALUES ('bryan', 'bryan@gmail',4,2,0)
 INSERT INTO UserItems (NombreUsu, CorreoUsu, PerfilUsu, EmpresaUsu, EstadoUsu)
 VALUES ('gerson', 'gerson@gmail',5,3,1)
+```
